@@ -1,0 +1,10 @@
+{
+	"default": "地震信息",
+	"economicinfo": "经济信息",
+	"environmeninfo": "环境信息",
+	"nearfz": "附近断裂带",
+	"populationinfo": "人口信息",
+	"seismicinfo": "地震信息",
+	"thd": "三维地形图",
+	"weatherinfo": "天气信息"
+}

@@ -1,0 +1,5 @@
+1.修改src目录下的pubFile文件，更改全局IP和端口号等
+2.Echarts的渲染需要修改npm install包中的vue-echarts，将ECharts.vue中的echarts/lib/echarts换为echarts即可使用echarts功能。 
+3.apache服务器的配置（特别注意ip后面不能加“/”）
+    Header set Access-Control-Allow-Origin http://192.168.18.240:8080
+	Header set Access-Control-Allow-Credentials true
